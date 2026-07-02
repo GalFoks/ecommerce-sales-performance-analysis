@@ -5,6 +5,7 @@ env/
 
 # Data mentah (biasanya terlalu besar & tidak perlu di-upload ke GitHub)
 data/raw/*.csv
+olist dataset/*.csv
 
 # Cache Python
 __pycache__/
@@ -25,4 +26,3 @@ Thumbs.db
 # Editor/IDE
 .vscode/
 .idea/
-
