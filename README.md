@@ -116,9 +116,14 @@ Open `notebooks/eda_statistical_analysis.ipynb` and run all cells to reproduce t
 
 ---
 
+License
+
+This project is licensed under the MIT License.
+
 ## Author
 
 **Muhammad Yusuf Jamil**
 Data Analyst Portfolio — [GitHub: GalFoks](https://github.com/GalFoks)
 
 This project is part of a broader portfolio spanning SQL/Python analytics, causal inference, and machine learning case studies on public and synthetic datasets.
+
