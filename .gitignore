@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Data mentah (biasanya terlalu besar & tidak perlu di-upload ke GitHub)
+data/raw/*.csv
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# File konfigurasi lokal / rahasia (kalau nanti pisahkan password ke file terpisah)
+.env
+config.ini
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
